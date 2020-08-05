@@ -1,5 +1,5 @@
 # Absent
-Absent is a location based attendance application for teachers and students. I started to develope the Absent for a school project and so it became my first Flutter application. In fact, it was only for iOS and Android, and therefore the web version doesn't look that well. 
+Absent is a location based attendance application for teachers and students. I started to develope the Absent for a school project and so it became my first Flutter application. In fact, it was only for iOS and Android, and therefore the web version doesn't work properly and look that well. 
 
 # Purpose
 The main purpose of the Absent is to ease the attendance process that takes place in schools for both students and teachers. Using the Absent, students and teachers can complete the attendance process via their phones without the need for any paper or pens.
